@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently enhancing my frontend development skills :)<br/>
+- 🌱 I’m currently tinkering with AI Engineering projects<br/>
 - 👯 I’m looking to collaborate on any exciting project<br/>
 
 
